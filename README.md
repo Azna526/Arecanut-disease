@@ -1,4 +1,4 @@
-📄 README.md 
+ 
 # 🌴 Arecanut Disease Detection (Deep Learning + Streamlit)
 
 This project uses a deep learning model (ResNet-based classifier) to detect **arecanut plant diseases** from images of leaves, nuts, trunks, and other plant parts.  
